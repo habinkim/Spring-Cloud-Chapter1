@@ -8,7 +8,8 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/discoveryservice" />
-        <option name="gradleJvm" value="15" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Program Files/Gradle/gradle-7.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/discoveryservice" />
@@ -20,7 +21,8 @@
         <option name="testRunner" value="PLATFORM" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/userservice" />
-        <option name="gradleJvm" value="15" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../Program Files/Gradle/gradle-7.1.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/userservice" />
